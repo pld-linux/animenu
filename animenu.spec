@@ -29,7 +29,7 @@ autoloading support and file types assotiations.
 %description -l pl
 Menu ekranowe obs³ugiwane pilotem. Jest w pe³ni konfigurowalne, z
 mo¿liwo¶ci± konfiguracji wczytywanych podczas startu katalogów
-i programów przypisanych do obs³ugugi poszczególnych typów plików.
+i programów przypisanych do obs³ugi poszczególnych typów plików.
 
 %prep
 %setup  -q
