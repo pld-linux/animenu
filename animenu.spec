@@ -6,7 +6,7 @@ Summary:	On Screen Display menu with lirc
 Summary(pl):	Menu ekranowe obs³ugiwane pilotem
 Name:		animenu
 Version:	0.3.0
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://www.blackfiveservices.co.uk/projects/%{name}-%{version}.tar.gz
