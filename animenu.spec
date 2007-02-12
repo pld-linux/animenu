@@ -3,7 +3,7 @@
 %bcond_without	xft	# without xft support
 #
 Summary:	On Screen Display menu with lirc
-Summary(pl):	Menu ekranowe obs≥ugiwane pilotem
+Summary(pl.UTF-8):   Menu ekranowe obs≈Çugiwane pilotem
 Name:		animenu
 Version:	0.3.0
 Release:	1
@@ -26,10 +26,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 On Screen Display menu with lirc. Fully configurable, with directory
 autoloading support and file types assotiations.
 
-%description -l pl
-Menu ekranowe obs≥ugiwane pilotem. Jest w pe≥ni konfigurowalne, z
-moøliwo∂ci± konfiguracji wczytywanych podczas startu katalogÛw
-i programÛw przypisanych do obs≥ugi poszczegÛlnych typÛw plikÛw.
+%description -l pl.UTF-8
+Menu ekranowe obs≈Çugiwane pilotem. Jest w pe≈Çni konfigurowalne, z
+mo≈ºliwo≈õciƒÖ konfiguracji wczytywanych podczas startu katalog√≥w
+i program√≥w przypisanych do obs≈Çugi poszczeg√≥lnych typ√≥w plik√≥w.
 
 %prep
 %setup  -q
