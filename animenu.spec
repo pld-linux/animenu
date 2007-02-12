@@ -3,7 +3,7 @@
 %bcond_without	xft	# without xft support
 #
 Summary:	On Screen Display menu with lirc
-Summary(pl.UTF-8):   Menu ekranowe obsługiwane pilotem
+Summary(pl.UTF-8):	Menu ekranowe obsługiwane pilotem
 Name:		animenu
 Version:	0.3.0
 Release:	1
